@@ -1,10 +1,10 @@
 {
-  "name": "un-untitled",
-  "main": "./un-untitled",
-  "version": "3.0.0",
-  "description": "At Atom package that changes the title on unsaved tabs from 'untitled' to the first few words of the file",
+  "name": "re-titled",
+  "main": "./re-titled",
+  "version": "0.0.0",
+  "description": "At Atom package that changes the title on unsaved tabs from 'untitled' to the first few words of the file revived from liquidmetalrob's un-untitled",
   "keywords": [],
-  "repository": "https://github.com/liquidmetalrob/un-untitled",
+  "repository": "https://github.com/ctkcoding/re-titled",
   "license": "GPL",
   "engines": {
     "atom": ">=1.0.0"
